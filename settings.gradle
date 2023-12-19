@@ -1,0 +1,11 @@
+rootProject.name = 'foobar'
+include 'the-cake-is-not-a-lie'
+include 'elevator-maintenance'
+include 'hey-i-already-did-that'
+include 'find-the-access-codes'
+include 'fuel-injection-perfection'
+include 'queue-to-do'
+include 'bringing-a-gun-to-a-trainer-fight'
+include 'distract-the-trainers'
+include 'expanding-nebula'
+
